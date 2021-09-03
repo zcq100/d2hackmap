@@ -663,7 +663,7 @@ Ear-------------耳朵-------ear---2049
 
 
 防具  头盔 
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Cap   cap   War Hat   xap   Shako   uap  
  Skull Cap   skp   Sallet   xkp   Hydraskull   ukp  
  Helm   hlm   Casque   xlm   Armet   ulm  
@@ -673,7 +673,7 @@ Ear-------------耳朵-------ear---2049
  Mask   msk   Death Mask   xsk   Demonhead   usk  
  Bone Helm   bhm   Grim Helm   xh9   Bone Visage   uh9  
  盔甲  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Quilted Armor   qui   Ghost Armor   xui   Dusk Shroud   uui  
  Leather Armor   lea   Serpentskin   xea   Wyrmhide   uea  
  Hard Leather   hla   Demonhide Armor   xla   Scarab Husk   ula  
@@ -690,7 +690,7 @@ Ear-------------耳朵-------ear---2049
  Ancient Armor   aar   Ornate Armor   xar   Sacred Armor   uar  
  Light Plate   ltp   Mage Plate   xtp   Archon Plate   utp  
  盾牌  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Buckler   buc   Defender   xuc   Heater   uuc  
  Small Shield   sml   Round Shield   xml   Luna   uml  
  Large Shield   lrg   Scutum   xrg   Hyperion   urg  
@@ -700,49 +700,49 @@ Ear-------------耳朵-------ear---2049
  Bone Shield   bsh   Grim Shield   xsh   Troll Nest   ush  
  Spiked Shield   spk   Barbed Shield   xpk   Blade Barrier   upk  
  手套 
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Leather Gloves   lgl   Demonhide Glove   xlg   Bramble Mitts   ulg  
  Heavy Gloves   vgl   Sharkskin Glove   xvg   Vampirebone Gl   uvg  
  Chain Gloves   mgl   Heavy Bracers   xmg   Vambraces   umg  
  Light Gauntlets   tgl   Battle Gauntlet   xtg   Crusader Gaunt   ulg  
  Gauntlets   hgl   War Gauntlets   xhg   Ogre Gauntlets   uhg  
  鞋子 
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Boots   lbt   Demonhide Boots   xlb   Wyrmhide Boots   ulb  
  Heavy Boots   vbt   Sharkskin Boots   xvb   Scarabshell Bts   uvb  
  Chain Boots   mbt   Mesh Boots   xmb   Boneweave Boots   umb  
  Light Plate   tbt   Battle Boots   xtb   Mirrored Boots   utb  
  Greaves   hbt   War Boots   xhb   Myrmidon Greave   uhb  
  腰带 
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Sash   lbl   Demonhide Sash   zlb   Spiderweb Sash   ulc  
  Light Belt   vbl   Sharkskin Belt   zvb   Vampirefang Blt   uvc  
  Belt   mbl   Mesh Belt   zmb   Mithril Coil   umc  
  Heavy Belt   tbl   Battle Belt   ztb   Troll Belt   utc  
  Plated Belt   hbl   War Belt   zhb   Colossus Girdle   uhc  
  德鲁伊专用头盔 
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Wolf Head   dr1   Alpha Helm   dr6   Blood Spirit   drb  
  Hawk Helm   dr2   Griffon Headress   dr7   Sun Spirit   drc  
  Antlers   dr3   Hunter's Guise   dr8   Earth Spirit   drd  
  Falcon Mask   dr4   Sacred Feathers   dr9   Sky Spirit   dre  
  Spirit Mask   dr5   Totemic Mask   dra   Dream Spirit   drf  
  野蛮人专用头盔 
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Jawbone Cap   ba1   Jawbone Visor   ba6   Carnage Helm   bab  
  Fanged Helm   ba2   Lion Helm   ba7   Fury Visor   bac  
  Horned Helm   ba3   Rage Mask   ba8   Destroyer Helm   bad  
  Assualt Helmet   ba4   Savage Helmet   ba9   Conqueror Crown   bae  
  Avenger Guard   ba5   Slayer Guard   baa   Guardian Crown   baf  
  圣骑士专用盾牌 
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Targe   pa1   Akaran Targe   pa6   Sacred Targe   pab  
  Rondache   pa2   Akaran Rondache   pa7   Sacred Rondache   pac  
  Heraldic Shield   pa3   Protector Shld   pa8   Ancient Shield   pad  
  Aerin Shield   pa4   Guilded Shield   pa9   Zakarum Shield   pae  
  Crown Shield   pa5   Royal Shield   paa   Vortex Shield   paf  
  男巫专用盾牌 
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Preserved Head   ne1   Mummified Trphy   ne6   Minion Skull   neb  
  Zombie Head   ne2   Fetish Trophy   ne7   Hellspawn Skull   nec  
  Unraveller Head   ne3   Sexton Trophy   ne8   Overseer Skull   ned  
@@ -755,7 +755,7 @@ Ear-------------耳朵-------ear---2049
 武器
 
  斧(Axe) 
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Hand Axe   hax   Hatchet   9ha   Tomahawk   7ha  
  Axe   axe   Cleaver   9ax   Small Crescent   7ax  
  Double Axe   2ax   Twin Axe   92a   Ettin Axe   72a  
@@ -767,7 +767,7 @@ Ear-------------耳朵-------ear---2049
  Great Axe   gax   Gothic Axe   9ga   Champion Axe   7ga  
  Giant Axe   gix   Ancient Axe   9gi   Glorious Axe   7gi  
  锤(Maces)  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Club   clb   Cudgel   9cl   Truncheon   7cl  
  Spiked Club   spc   Barbed Club   9sp   Tyrant Club   7sp  
  Mace   mac   Flanged Mace   9ma   Reinforced Mace   7ma  
@@ -777,7 +777,7 @@ Ear-------------耳朵-------ear---2049
  Maul   mau   War Club   9m9   Ogre Maul   7m7  
  Great Maul   gma   Martel de Fer   9gm   Thunder Maul   7gm  
  剑(Swords)  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Short Swrod   ssd   Gladius   9ss   Falcata   7ss  
  Scimitar   scm   Cutlass   9sm   Ataghan   7sm  
  Saber   sbr   Shamshir   9sb   Elegant Blade   7sb  
@@ -793,33 +793,33 @@ Ear-------------耳朵-------ear---2049
  Flamberge   flb   Zweihander   9fb   Colossal Sword   7fb  
  Great Sword   gsd   Executioner Swr   9gd   Colossus Blade   7gd  
  匕首(Daggers)  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Dagger   dgr   Poignard   9dg   Bone Knife   7dg  
  Dirk   dir   Rondel   9di   Mithral Point   7di  
  Kriss   kri   Cinquedeas   9kr   Fanged Knife   7kr  
  Blade   bld   Stilleto   9bl   Legend Spike   7bl  
  投掷武器(Throwing)  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Throwing Knife   tkf   Battle Dart   9tk   Flying Knife   7tk  
  Throwing Axe   tax   Francisca   9ta   Flying Axe   7ta  
  Balanced Knife   bkf   War Dart   9bk   Winged Knife   7bk  
  Balanced Axe   bal   Hurlbat   9b8   Winged Axe   7b8  
  标枪(Javelin)  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Javelin   jav   War Javelin   9ja   Hyperion Javeln   7ja  
  Pilum   pil   Great Pilum   9pi   Stygian Pilum   7pi  
  Short Spear   ssp   Simbilan   9s9   Balrog Spear   7s7  
  Glaive   glv   Spiculum   9gl   Ghost Glaive   7gl  
  Throwing Spear   tsp   Harpoon   9ts   Winged Harpoon   7ts  
  矛(Spears)  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Spear   spr   War Spear   9sr   Hyperion Spear   7sr  
  Trident   tri   Fuscina   9tr   Stygian Pike   7tr  
  Brandistock   brn   War Fork   9br   Mancatcher   7br  
  Spetum   spt   Yari   9st   Ghost Spear   7st  
  Pike   pik   Lance   9p9   War Pike   7p7  
  长柄武器(Polearms)  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Bardiche   bar   Lochaber Axe   9b7   Ogre Axe   7o7  
  Voulge   vou   Bill   9vo   Colossus Voulge   7vo  
  Scythe   scy   Battle Scythe   9s8   Thresher   7s8  
@@ -827,7 +827,7 @@ Ear-------------耳朵-------ear---2049
  Halberd   hal   Bec-de-Corbin   9h9   Great Poleaxe   7h7  
  War Scythe   wsc   Grim Scythe   9wc   Giant Thresher   7wc  
  弓(Bows)  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Short Bow   sbw   Edge Bow   8sb   Spider Bow   6sb  
  Hunter's Bow   hbw   Razor Bow   8hb   Blade Bow   6hb  
  Long Bow   lbw   Cedar Bow   8lb   Shadow Bow   6lb  
@@ -837,31 +837,31 @@ Ear-------------耳朵-------ear---2049
  Short War Bow   swb   Rune Bow   8sw   Ward Bow   6sw  
  Long War Bow   lwb   Gothic Bow   8lw   Hydra Bow   6lw  
  十字弓(Crossbows)  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Light Crossbow   lxb   Arbalest   8lx   Pellet Bow   6lx  
  Crossbow   mxb   Siege Crossbow   8mx   Gorgon Crossbow   6mx  
  Heavy Crossbow   hxb   Ballista   8hx   Colossus x-bow   6hx  
  Repeating X-bow   rxb   Chu-Ko-Nu   8rx   Demon Crossbow   6rx  
  Staves  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Short Staff   sst   Jo Staff   8ss   Walking Stick   6ss  
  Long Staff   lst   Quarterstaff   8ls   Stalagmite   6ls  
  Gnarled Staff   gst   Cedar Staff   8cs   Elder Staff   6cs  
  Battle Staff   bst   Gothic Staff   8bs   Shillelagh   6bs  
  War Staff   wst   Rune Staff   8ws   Archon Staff   6ws  
  Wands  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Wand   wnd   Burnt Wand   9wn   Polished Wand   7wn  
  Yew Wand   ywn   Petrified Wand   9yw   Ghost Wand   7yw  
  Bone Wand   bwn   Tomb Wand   9bw   Lich Wand   7bw  
  Grim Wand   gwn   Grave Wand   9gw   Unearthed Wand   7gw  
  权杖(Scepters)  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Sceptre   scp   Rune Sceptre   9sc   Mighty Sceptre   7sc  
  Grand Sceptre   gsc   Holy Water Spri   9qs   Seraph Rod   7qs  
  War Sceptre   wsp   Divine Sceptre   9ws   Caduceus   7ws  
  刺客专用爪(Assassin Katars)  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Katar   ktr   Quhab   9ar   Suwayyah   7ar  
  Wrist Blade   wrb   Wrist Spike   9wb   Wrist Sword   7wb  
  Hatchet Hands   axf   Fascia   9xf   War Fist   7xf  
@@ -870,14 +870,14 @@ Ear-------------耳朵-------ear---2049
  Blade Talons   btl   Greater Talons   9hw   Runic Talons   7hw  
  Scissors Katar   skr   Scissors Quhab   9qr   Scissors Suwayh   7qr  
  女巫专用手杖(Sorceress Orbs)  
- 普通物品   代码   扩展物品   代码   菁英物品  代码  
+ 普通物品   代码   扩展物品   代码   精英物品  代码  
  Eagle Orb   ob1   Glowing Orb   ob6   Heavenly Stone   obb  
  Sacred Globe   ob2   Crystalline Glb   ob7   Eldritch Orb   obc  
  Smoked Sphere   ob3   Cloudy Sphere   ob8   Demon Heart   obd  
  Clasped Orb   ob4   Sparkling Ball   ob9   Vortex Orb   obe  
  Dragon Stone   ob5   Swirling Crystl   oba   Dimensional Shrd   obf  
  亚马逊女战士专用武器(Amazon Weapons) 
- 普通物品   代码   扩展物品   代码   菁英物品   代码  
+ 普通物品   代码   扩展物品   代码   精英物品   代码  
  Stag Bow   am1   Ashwood Bow   am6   Matriarchal Bow   amb  
  Reflex Bow   am2   Ceremonial Bow   am7   Grnd Matron Bow   amc  
  Maiden Spear   am3   Ceremonial Spr   am8   Matriarchal Spr   amd  
