@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "*.bmp": true,
+        "*.exe": true,
+        "*.dll":true,
+    }
+}
