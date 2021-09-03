@@ -1,0 +1,9 @@
+三大部分
+1 D2hackmap.exe，用于在官方战网上安全开地图
+ 相关文件pluginloader.ini，d2hackmap.ini
+  res_sc.lng(中文界面包),remote.dll
+
+2 D2hackmap.dll，用于单机游戏和私服，不要在BN使用
+  相关文件d2hackmap.cfg，d2hackmap.vcb，所有BMP文件
+
+3 其他说明文件
